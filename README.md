@@ -18,16 +18,12 @@ You can restore the toy dataset  "parch and posey" to your local machines from t
 
 7.) Run `pg_restore --create --db_name=postgres --username=postgres parch_and_posey_db`
 
-
-
-
-**NOTE: The data dump file and the above commands works well with PostgreSQL (may or may not work with MySQL and others).**
-
+8.) Run pgAdmin and look up for Parch and Posey Database; 
 
 Now, SQL commands can be used to explore the dataset and run queries on it.
 
 </br>
-Here is the schema of the database used for all the queries.
+Here is the schema of the database used for all the queries. </br>
 
 ![](schema.png)
 
